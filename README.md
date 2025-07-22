@@ -1,7 +1,7 @@
- Project Overview
+ Project Overview:
 This project automates the extraction and validation of upcoming bike details and used car models from the Zigwheels website. The automation script is developed using Selenium, TestNG, and Cucumber, with results captured in structured Excel reports.
 
- Problem Statement
+ Problem Statement:
  Identify New Bikes
 Objective: Display details of upcoming bikes including bike name, price, and expected launch date in India with the following criteria:
 1. Manufacturer should be Honda.
