@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-21T23:13:47 IST" name="Suite" finished-at="2025-07-21T23:17:22 IST" duration-ms="214892">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-07-21T23:13:47 IST" name="Test" finished-at="2025-07-21T23:17:22 IST" duration-ms="214892">
+      <class name="testRunner.TestNGTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:13:47 IST" name="setUpClass" finished-at="2025-07-21T23:13:47 IST" duration-ms="454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4c9f28ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:13:47 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:13:55 IST" duration-ms="8172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Searching for bikes with varying input"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ZigWheels Home Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:13:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:14:05 IST" duration-ms="9797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation of regression testing"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ZigWheels Home Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:14:05 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:14:19 IST" duration-ms="14246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User attempting to log in with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ZigWheels Google Login"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:14:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:14:36 IST" duration-ms="16600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login through Apple with invalid details"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["User Login through Apple"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:14:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:15:09 IST" duration-ms="32710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Searching for Used Cars in Chennai"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ZigWheels Honda Used Cars"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:15:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:15:22 IST" duration-ms="13049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Searching for Honda Upcoming Bikes and display result"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ZigWheels Honda Upcoming Bikes"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:15:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:15:33 IST" duration-ms="11599" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User filters new scooters by brand and views available options"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Display new scooters for selected make"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:15:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:15:43 IST" duration-ms="9915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Searching for Used Cars in Chennai and displaying"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ZigWheels Used Cars Filters displying"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:15:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:16:13 IST" duration-ms="29524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Select car details and join the community forum"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Forum Navigation and Join Community"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:16:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:16:28 IST" duration-ms="15058" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Select the Location and Make and find the location of Service Center"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Find Service Centers for given loction and make"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:16:28 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:16:54 IST" duration-ms="25768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Checking EMI calculator for sample data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["ZegWheels EMI calculator check"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:16:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:17:06 IST" duration-ms="12235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Checking whether the Top Bike Brands logo is Displayed in the Home Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking Top Bike Brands Displayed"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:17:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-21T23:17:22 IST" duration-ms="15668" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["The user is on home page and clicks all the header elements and then on the logo to navigate back to home page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Check the Fuctionality of ZigWheels Logo"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.TestNGTestRunner@4bf48f6]" started-at="2025-07-21T23:17:22 IST" name="tearDownClass" finished-at="2025-07-21T23:17:22 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.TestNGTestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

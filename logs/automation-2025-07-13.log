@@ -1,0 +1,700 @@
+00:58:30.965 [main] INFO  - The user is navigated to the Forum Community page
+00:58:49.167 [main] INFO  - The error message is displayed: Incorrect email address
+22:32:05.402 [main] INFO  - The user is navigated to the Froum Community page
+22:32:07.373 [main] INFO  - The user is navigated to the Forum Community page
+22:32:24.918 [main] INFO  - The error message is displayed: Incorrect email address
+22:36:15.284 [main] INFO  - The user is navigated to the Froum Community page
+22:36:17.532 [main] INFO  - The user is navigated to the Forum Community page
+22:37:03.606 [main] INFO  - The user is navigated to the Froum Community page
+22:37:05.333 [main] INFO  - The user is navigated to the Forum Community page
+22:37:27.308 [main] INFO  - The error message is displayed: Incorrect email address
+22:43:12.966 [main] INFO  - The Map URL is captured Successfully
+22:57:46.712 [main] INFO  - The user is navigated to the Froum Community page
+22:57:51.537 [main] INFO  - The user is navigated to the Forum Community page
+22:58:03.398 [main] INFO  - The error message is displayed: Please re-enter your password
+22:58:41.851 [main] INFO  - The Map URL is captured Successfully
+23:04:25.583 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:04:25.590 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:04:25.591 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:04:25.594 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:04:25.817 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:04:25.822 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:04:25.824 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:04:25.825 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:04:25.826 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:04:25.829 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:04:25.849 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:04:25.850 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:04:25.857 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:04:25.858 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:04:25.859 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:04:25.860 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:04:25.861 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:04:25.862 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+23:04:25.908 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:04:25.910 [main] TRACE - Resolving type for handle themefd26doctype
+23:04:25.992 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+23:04:26.004 [main] TRACE - Resolving type for handle ctstylesheet4257type
+23:04:26.016 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+23:04:26.021 [main] TRACE - Resolving type for handle ctfonts6623type
+23:04:26.031 [main] TRACE - Resolving type for handle ctfont14d8type
+23:04:26.039 [main] TRACE - Resolving type for handle ctfills2c6ftype
+23:04:26.042 [main] TRACE - Resolving type for handle ctfill550ctype
+23:04:26.045 [main] TRACE - Resolving type for handle ctborders0d66type
+23:04:26.049 [main] TRACE - Resolving type for handle ctborderf935type
+23:04:26.054 [main] TRACE - Resolving type for handle ctcellxfs1322type
+23:04:26.058 [main] TRACE - Resolving type for handle ctxf97f7type
+23:04:26.062 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+23:04:26.068 [main] TRACE - Resolving type for handle ctdxfsb26atype
+23:04:26.076 [main] TRACE - Resolving type for handle cttablestyles872ftype
+23:04:26.083 [main] TRACE - Resolving type for handle sstf81fdoctype
+23:04:26.090 [main] TRACE - Resolving type for handle ctsst44f3type
+23:04:26.107 [main] TRACE - Resolving type for handle ctrsta472type
+23:04:26.171 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:04:26.172 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:04:26.174 [main] TRACE - Resolving type for handle workbookec17doctype
+23:04:26.182 [main] TRACE - Resolving type for handle ctworkbook83c3type
+23:04:26.190 [main] TRACE - Resolving type for handle ctsheets49fdtype
+23:04:26.196 [main] TRACE - Resolving type for handle ctsheet4dbetype
+23:04:26.200 [main] TRACE - Resolving type for handle strelationshipid1e94type
+23:04:26.204 [main] TRACE - Resolving type for handle worksheetf539doctype
+23:04:26.226 [main] TRACE - Resolving type for handle ctworksheet530dtype
+23:04:26.239 [main] TRACE - Resolving type for handle ctcols627ctype
+23:04:26.246 [main] TRACE - Resolving type for handle ctcola95ftype
+23:04:26.271 [main] TRACE - Resolving type for handle ctsheetdata8408type
+23:04:26.275 [main] TRACE - Resolving type for handle ctrowdd39type
+23:04:26.283 [main] TRACE - Resolving type for handle ctcell842btype
+23:04:26.295 [main] TRACE - Resolving type for handle stcellrefe4e0type
+23:04:26.355 [main] TRACE - Resolving type for handle stxstringf179type
+23:04:26.360 [main] INFO  - The user will be in ZigWheels Home Page
+23:04:26.369 [main] TRACE - Resolving type for handle stcelltypebf95type
+23:04:56.826 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:04:56.830 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:04:56.831 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:04:56.832 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:04:56.960 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:04:56.963 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:04:56.963 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:04:56.963 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:04:56.964 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:04:56.965 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:04:56.972 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:04:56.973 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:04:56.977 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:04:56.977 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:04:56.978 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:04:56.979 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:04:56.980 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:04:56.980 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+23:04:57.017 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:04:57.018 [main] TRACE - Resolving type for handle themefd26doctype
+23:04:57.063 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+23:04:57.069 [main] TRACE - Resolving type for handle ctstylesheet4257type
+23:04:57.077 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+23:04:57.080 [main] TRACE - Resolving type for handle ctfonts6623type
+23:04:57.085 [main] TRACE - Resolving type for handle ctfont14d8type
+23:04:57.092 [main] TRACE - Resolving type for handle ctfills2c6ftype
+23:04:57.095 [main] TRACE - Resolving type for handle ctfill550ctype
+23:04:57.097 [main] TRACE - Resolving type for handle ctborders0d66type
+23:04:57.099 [main] TRACE - Resolving type for handle ctborderf935type
+23:04:57.103 [main] TRACE - Resolving type for handle ctcellxfs1322type
+23:04:57.107 [main] TRACE - Resolving type for handle ctxf97f7type
+23:04:57.112 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+23:04:57.114 [main] TRACE - Resolving type for handle ctdxfsb26atype
+23:04:57.116 [main] TRACE - Resolving type for handle cttablestyles872ftype
+23:04:57.119 [main] TRACE - Resolving type for handle sstf81fdoctype
+23:04:57.136 [main] TRACE - Resolving type for handle ctsst44f3type
+23:04:57.154 [main] TRACE - Resolving type for handle ctrsta472type
+23:04:57.234 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:04:57.235 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:04:57.236 [main] TRACE - Resolving type for handle workbookec17doctype
+23:04:57.244 [main] TRACE - Resolving type for handle ctworkbook83c3type
+23:04:57.260 [main] TRACE - Resolving type for handle ctsheets49fdtype
+23:04:57.268 [main] TRACE - Resolving type for handle ctsheet4dbetype
+23:04:57.273 [main] TRACE - Resolving type for handle strelationshipid1e94type
+23:04:57.277 [main] TRACE - Resolving type for handle worksheetf539doctype
+23:04:57.310 [main] TRACE - Resolving type for handle ctworksheet530dtype
+23:04:57.321 [main] TRACE - Resolving type for handle ctcols627ctype
+23:04:57.327 [main] TRACE - Resolving type for handle ctcola95ftype
+23:04:57.351 [main] TRACE - Resolving type for handle ctsheetdata8408type
+23:04:57.356 [main] TRACE - Resolving type for handle ctrowdd39type
+23:04:57.363 [main] TRACE - Resolving type for handle ctcell842btype
+23:04:57.373 [main] TRACE - Resolving type for handle stcellrefe4e0type
+23:04:57.452 [main] TRACE - Resolving type for handle stxstringf179type
+23:04:57.454 [main] INFO  - The user will be in ZigWheels Home Page
+23:04:57.461 [main] TRACE - Resolving type for handle stcelltypebf95type
+23:05:02.531 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+23:05:02.542 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+23:05:02.544 [main] TRACE - Resolving type for handle stref90a2type
+23:05:02.583 [main] TRACE - Resolving type for handle propertiesee84doctype
+23:05:02.587 [main] TRACE - Resolving type for handle ctproperties3f10type
+23:05:02.596 [main] TRACE - Resolving type for handle properties288cdoctype
+23:05:02.598 [main] TRACE - Resolving type for handle ctproperties2c18type
+23:05:02.615 [main] DEBUG - Save content types part
+23:05:02.689 [main] DEBUG - Save package relationships
+23:05:02.693 [main] DEBUG - Save part 'docProps/app.xml'
+23:05:02.694 [main] DEBUG - Save part 'docProps/core.xml'
+23:05:02.697 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:05:02.697 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:05:02.698 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:05:02.698 [main] DEBUG - Save part 'xl/styles.xml'
+23:05:02.699 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:05:02.699 [main] DEBUG - Save part 'xl/workbook.xml'
+23:05:02.701 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:05:02.703 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:05:02.705 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:05:02.705 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:05:02.705 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:05:02.705 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:05:02.706 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:05:02.706 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:05:02.706 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:05:02.772 [main] INFO  - DisplayNo results found for keyword 'UpcomingHondaBikes'. Please enter a relevant search item.
+23:08:19.859 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:08:19.864 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:08:19.865 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:08:19.866 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:08:20.095 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:08:20.098 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:08:20.100 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:08:20.101 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:08:20.101 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:08:20.102 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:08:20.116 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:08:20.118 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:08:20.126 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:08:20.128 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:08:20.131 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:08:20.133 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:08:20.134 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:08:20.136 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+23:08:20.207 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:08:20.208 [main] TRACE - Resolving type for handle themefd26doctype
+23:08:20.299 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+23:08:20.311 [main] TRACE - Resolving type for handle ctstylesheet4257type
+23:08:20.322 [main] TRACE - Resolving type for handle ctfonts6623type
+23:08:20.327 [main] TRACE - Resolving type for handle ctfont14d8type
+23:08:20.340 [main] TRACE - Resolving type for handle ctfills2c6ftype
+23:08:20.343 [main] TRACE - Resolving type for handle ctfill550ctype
+23:08:20.347 [main] TRACE - Resolving type for handle ctborders0d66type
+23:08:20.352 [main] TRACE - Resolving type for handle ctborderf935type
+23:08:20.357 [main] TRACE - Resolving type for handle ctcellxfs1322type
+23:08:20.362 [main] TRACE - Resolving type for handle ctxf97f7type
+23:08:20.366 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+23:08:20.369 [main] TRACE - Resolving type for handle ctdxfsb26atype
+23:08:20.372 [main] TRACE - Resolving type for handle cttablestyles872ftype
+23:08:20.377 [main] TRACE - Resolving type for handle sstf81fdoctype
+23:08:20.386 [main] TRACE - Resolving type for handle ctsst44f3type
+23:08:20.400 [main] TRACE - Resolving type for handle ctrsta472type
+23:08:20.460 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:08:20.461 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:08:20.463 [main] TRACE - Resolving type for handle workbookec17doctype
+23:08:20.471 [main] TRACE - Resolving type for handle ctworkbook83c3type
+23:08:20.479 [main] TRACE - Resolving type for handle ctsheets49fdtype
+23:08:20.483 [main] TRACE - Resolving type for handle ctsheet4dbetype
+23:08:20.487 [main] TRACE - Resolving type for handle strelationshipid1e94type
+23:08:20.492 [main] TRACE - Resolving type for handle worksheetf539doctype
+23:08:20.518 [main] TRACE - Resolving type for handle ctworksheet530dtype
+23:08:20.528 [main] TRACE - Resolving type for handle ctcols627ctype
+23:08:20.534 [main] TRACE - Resolving type for handle ctcola95ftype
+23:08:20.553 [main] TRACE - Resolving type for handle ctsheetdata8408type
+23:08:20.556 [main] TRACE - Resolving type for handle ctrowdd39type
+23:08:20.563 [main] TRACE - Resolving type for handle ctcell842btype
+23:08:20.573 [main] TRACE - Resolving type for handle stcellrefe4e0type
+23:08:20.643 [main] TRACE - Resolving type for handle stxstringf179type
+23:08:20.646 [main] INFO  - The user will be in ZigWheels Home Page
+23:08:20.651 [main] TRACE - Resolving type for handle stcelltypebf95type
+23:08:21.420 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+23:08:21.441 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+23:08:21.443 [main] TRACE - Resolving type for handle stref90a2type
+23:08:21.471 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+23:08:21.492 [main] TRACE - Resolving type for handle propertiesee84doctype
+23:08:21.494 [main] TRACE - Resolving type for handle ctproperties3f10type
+23:08:21.502 [main] TRACE - Resolving type for handle properties288cdoctype
+23:08:21.504 [main] TRACE - Resolving type for handle ctproperties2c18type
+23:08:21.521 [main] DEBUG - Save content types part
+23:08:21.590 [main] DEBUG - Save package relationships
+23:08:21.595 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:21.595 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:21.598 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:21.599 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:21.599 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:21.599 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:21.600 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:21.600 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:21.602 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:21.604 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:21.605 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:21.606 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:21.606 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:21.606 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:21.607 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:21.607 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:21.607 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:21.677 [main] INFO  - DisplayNo results found for keyword 'UpcomingHondaBikes'. Please enter a relevant search item.
+23:08:26.134 [main] DEBUG - Save content types part
+23:08:26.136 [main] DEBUG - Save package relationships
+23:08:26.138 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:26.139 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:26.142 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:26.142 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:26.143 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:26.143 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:26.144 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:26.145 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:26.149 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:26.152 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:26.154 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:26.155 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:26.155 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:26.156 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:26.156 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:26.157 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:26.157 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:26.185 [main] DEBUG - Save content types part
+23:08:26.187 [main] DEBUG - Save package relationships
+23:08:26.188 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:26.189 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:26.191 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:26.192 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:26.193 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:26.194 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:26.195 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:26.195 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:26.201 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:26.205 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:26.207 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:26.208 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:26.209 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:26.209 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:26.210 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:26.210 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:26.210 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:26.245 [main] DEBUG - Save content types part
+23:08:26.248 [main] DEBUG - Save package relationships
+23:08:26.251 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:26.251 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:26.254 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:26.255 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:26.256 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:26.257 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:26.258 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:26.259 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:26.263 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:26.266 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:26.269 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:26.270 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:26.270 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:26.271 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:26.272 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:26.272 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:26.273 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:26.300 [main] DEBUG - Save content types part
+23:08:26.303 [main] DEBUG - Save package relationships
+23:08:26.306 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:26.306 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:26.309 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:26.310 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:26.311 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:26.312 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:26.312 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:26.313 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:26.317 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:26.320 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:26.322 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:26.323 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:26.323 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:26.323 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:26.324 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:26.324 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:26.325 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:26.353 [main] DEBUG - Save content types part
+23:08:26.356 [main] DEBUG - Save package relationships
+23:08:26.359 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:26.359 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:26.362 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:26.363 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:26.364 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:26.364 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:26.365 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:26.365 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:26.369 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:26.372 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:26.375 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:26.375 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:26.375 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:26.377 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:26.377 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:26.378 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:26.378 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:26.850 [main] DEBUG - Save content types part
+23:08:26.854 [main] DEBUG - Save package relationships
+23:08:26.856 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:26.856 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:26.859 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:26.860 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:26.860 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:26.861 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:26.861 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:26.861 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:26.864 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:26.869 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:26.871 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:26.872 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:26.872 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:26.873 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:26.873 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:26.874 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:26.874 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:26.907 [main] DEBUG - Save content types part
+23:08:26.910 [main] DEBUG - Save package relationships
+23:08:26.913 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:26.913 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:26.917 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:26.918 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:26.919 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:26.920 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:26.920 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:26.921 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:26.923 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:26.926 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:26.928 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:26.928 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:26.928 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:26.929 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:26.929 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:26.929 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:26.929 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:27.142 [main] DEBUG - Save content types part
+23:08:27.144 [main] DEBUG - Save package relationships
+23:08:27.146 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:27.147 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:27.150 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:27.151 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:27.152 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:27.153 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:27.154 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:27.155 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:27.158 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:27.161 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:27.164 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:27.165 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:27.166 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:27.166 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:27.167 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:27.167 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:27.168 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:27.191 [main] DEBUG - Save content types part
+23:08:27.193 [main] DEBUG - Save package relationships
+23:08:27.195 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:27.195 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:27.196 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:27.197 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:27.197 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:27.198 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:27.199 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:27.200 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:27.202 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:27.204 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:27.206 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:27.207 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:27.208 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:27.208 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:27.210 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:27.210 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:27.210 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:27.253 [main] DEBUG - Save content types part
+23:08:27.255 [main] DEBUG - Save package relationships
+23:08:27.256 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:27.257 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:27.258 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:27.258 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:27.258 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:27.259 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:27.259 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:27.259 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:27.260 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:27.262 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:27.263 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:27.263 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:27.263 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:27.264 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:27.264 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:27.264 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:27.265 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:08:27.278 [main] DEBUG - Save content types part
+23:08:27.279 [main] DEBUG - Save package relationships
+23:08:27.281 [main] DEBUG - Save part 'docProps/app.xml'
+23:08:27.281 [main] DEBUG - Save part 'docProps/core.xml'
+23:08:27.284 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:08:27.285 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:08:27.285 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:08:27.285 [main] DEBUG - Save part 'xl/styles.xml'
+23:08:27.285 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:08:27.286 [main] DEBUG - Save part 'xl/workbook.xml'
+23:08:27.287 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:08:27.289 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:08:27.290 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:08:27.290 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:08:27.290 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:08:27.290 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:08:27.291 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:08:27.291 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:08:27.291 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:10:50.546 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:10:50.552 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:10:50.553 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:10:50.554 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:10:50.696 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:10:50.698 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:10:50.699 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:10:50.700 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:10:50.700 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:10:50.701 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:10:50.709 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:10:50.710 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:10:50.712 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:10:50.713 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:10:50.714 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:10:50.714 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:10:50.716 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:10:50.716 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+23:10:50.771 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:10:50.772 [main] TRACE - Resolving type for handle themefd26doctype
+23:10:50.826 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+23:10:50.838 [main] TRACE - Resolving type for handle ctstylesheet4257type
+23:10:50.843 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+23:10:50.849 [main] TRACE - Resolving type for handle ctfonts6623type
+23:10:50.852 [main] TRACE - Resolving type for handle ctfont14d8type
+23:10:50.861 [main] TRACE - Resolving type for handle ctfills2c6ftype
+23:10:50.863 [main] TRACE - Resolving type for handle ctfill550ctype
+23:10:50.865 [main] TRACE - Resolving type for handle ctborders0d66type
+23:10:50.866 [main] TRACE - Resolving type for handle ctborderf935type
+23:10:50.868 [main] TRACE - Resolving type for handle ctcellxfs1322type
+23:10:50.870 [main] TRACE - Resolving type for handle ctxf97f7type
+23:10:50.872 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+23:10:50.875 [main] TRACE - Resolving type for handle ctdxfsb26atype
+23:10:50.878 [main] TRACE - Resolving type for handle cttablestyles872ftype
+23:10:50.881 [main] TRACE - Resolving type for handle sstf81fdoctype
+23:10:50.885 [main] TRACE - Resolving type for handle ctsst44f3type
+23:10:50.892 [main] TRACE - Resolving type for handle ctrsta472type
+23:10:50.924 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:10:50.924 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:10:50.925 [main] TRACE - Resolving type for handle workbookec17doctype
+23:10:50.929 [main] TRACE - Resolving type for handle ctworkbook83c3type
+23:10:50.933 [main] TRACE - Resolving type for handle ctsheets49fdtype
+23:10:50.935 [main] TRACE - Resolving type for handle ctsheet4dbetype
+23:10:50.936 [main] TRACE - Resolving type for handle strelationshipid1e94type
+23:10:50.938 [main] TRACE - Resolving type for handle worksheetf539doctype
+23:10:50.949 [main] TRACE - Resolving type for handle ctworksheet530dtype
+23:10:50.958 [main] TRACE - Resolving type for handle ctcols627ctype
+23:10:50.962 [main] TRACE - Resolving type for handle ctcola95ftype
+23:10:50.974 [main] TRACE - Resolving type for handle ctsheetdata8408type
+23:10:50.977 [main] TRACE - Resolving type for handle ctrowdd39type
+23:10:50.982 [main] TRACE - Resolving type for handle ctcell842btype
+23:10:50.987 [main] TRACE - Resolving type for handle stcellrefe4e0type
+23:10:51.035 [main] TRACE - Resolving type for handle stxstringf179type
+23:10:51.037 [main] INFO  - The user will be in ZigWheels Home Page
+23:10:51.041 [main] TRACE - Resolving type for handle stcelltypebf95type
+23:10:52.379 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+23:10:52.385 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+23:10:52.386 [main] TRACE - Resolving type for handle stref90a2type
+23:10:52.413 [main] TRACE - Resolving type for handle propertiesee84doctype
+23:10:52.415 [main] TRACE - Resolving type for handle ctproperties3f10type
+23:10:52.425 [main] TRACE - Resolving type for handle properties288cdoctype
+23:10:52.427 [main] TRACE - Resolving type for handle ctproperties2c18type
+23:10:52.441 [main] DEBUG - Save content types part
+23:10:52.496 [main] DEBUG - Save package relationships
+23:10:52.499 [main] DEBUG - Save part 'docProps/app.xml'
+23:10:52.500 [main] DEBUG - Save part 'docProps/core.xml'
+23:10:52.502 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:10:52.502 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:10:52.502 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:10:52.503 [main] DEBUG - Save part 'xl/styles.xml'
+23:10:52.503 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:10:52.503 [main] DEBUG - Save part 'xl/workbook.xml'
+23:10:52.507 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:10:52.509 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:10:52.511 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:10:52.512 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:10:52.513 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:10:52.513 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:10:52.513 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:10:52.514 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:10:52.514 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:10:52.581 [main] INFO  - DisplayNo results found for keyword 'UpcomingHondaBikes'. Please enter a relevant search item.
+23:10:59.766 [main] DEBUG - Save content types part
+23:10:59.768 [main] DEBUG - Save package relationships
+23:10:59.770 [main] DEBUG - Save part 'docProps/app.xml'
+23:10:59.770 [main] DEBUG - Save part 'docProps/core.xml'
+23:10:59.772 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:10:59.772 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:10:59.773 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:10:59.773 [main] DEBUG - Save part 'xl/styles.xml'
+23:10:59.773 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:10:59.774 [main] DEBUG - Save part 'xl/workbook.xml'
+23:10:59.778 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:10:59.781 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:10:59.783 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:10:59.784 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:10:59.784 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:10:59.785 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:10:59.785 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:10:59.785 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:10:59.786 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:10:59.812 [main] DEBUG - Save content types part
+23:10:59.815 [main] DEBUG - Save package relationships
+23:10:59.816 [main] DEBUG - Save part 'docProps/app.xml'
+23:10:59.817 [main] DEBUG - Save part 'docProps/core.xml'
+23:10:59.819 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:10:59.819 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:10:59.820 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:10:59.820 [main] DEBUG - Save part 'xl/styles.xml'
+23:10:59.821 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:10:59.821 [main] DEBUG - Save part 'xl/workbook.xml'
+23:10:59.824 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:10:59.827 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:10:59.830 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:10:59.830 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:10:59.831 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:10:59.832 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:10:59.832 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:10:59.833 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:10:59.833 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:10:59.890 [main] DEBUG - Save content types part
+23:10:59.893 [main] DEBUG - Save package relationships
+23:10:59.896 [main] DEBUG - Save part 'docProps/app.xml'
+23:10:59.896 [main] DEBUG - Save part 'docProps/core.xml'
+23:10:59.898 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:10:59.898 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:10:59.899 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:10:59.900 [main] DEBUG - Save part 'xl/styles.xml'
+23:10:59.900 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:10:59.900 [main] DEBUG - Save part 'xl/workbook.xml'
+23:10:59.902 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:10:59.903 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:10:59.904 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:10:59.904 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:10:59.905 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:10:59.905 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:10:59.905 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:10:59.905 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:10:59.905 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:10:59.940 [main] DEBUG - Save content types part
+23:10:59.941 [main] DEBUG - Save package relationships
+23:10:59.942 [main] DEBUG - Save part 'docProps/app.xml'
+23:10:59.942 [main] DEBUG - Save part 'docProps/core.xml'
+23:10:59.943 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:10:59.944 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:10:59.944 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:10:59.944 [main] DEBUG - Save part 'xl/styles.xml'
+23:10:59.944 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:10:59.945 [main] DEBUG - Save part 'xl/workbook.xml'
+23:10:59.946 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:10:59.947 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:10:59.948 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:10:59.948 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:10:59.948 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:10:59.948 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:10:59.948 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:10:59.949 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:10:59.949 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:10:59.963 [main] DEBUG - Save content types part
+23:10:59.965 [main] DEBUG - Save package relationships
+23:10:59.966 [main] DEBUG - Save part 'docProps/app.xml'
+23:10:59.966 [main] DEBUG - Save part 'docProps/core.xml'
+23:10:59.967 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:10:59.968 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:10:59.968 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:10:59.968 [main] DEBUG - Save part 'xl/styles.xml'
+23:10:59.968 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:10:59.969 [main] DEBUG - Save part 'xl/workbook.xml'
+23:10:59.970 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:10:59.972 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:10:59.973 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:10:59.973 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:10:59.973 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:10:59.973 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:10:59.974 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:10:59.974 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:10:59.974 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:11:00.177 [main] DEBUG - Save content types part
+23:11:00.179 [main] DEBUG - Save package relationships
+23:11:00.180 [main] DEBUG - Save part 'docProps/app.xml'
+23:11:00.180 [main] DEBUG - Save part 'docProps/core.xml'
+23:11:00.182 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:11:00.182 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:11:00.182 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:11:00.182 [main] DEBUG - Save part 'xl/styles.xml'
+23:11:00.183 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:11:00.183 [main] DEBUG - Save part 'xl/workbook.xml'
+23:11:00.185 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:11:00.186 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:11:00.187 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:11:00.188 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:11:00.188 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:11:00.188 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:11:00.188 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:11:00.189 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:11:00.189 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:11:00.206 [main] DEBUG - Save content types part
+23:11:00.209 [main] DEBUG - Save package relationships
+23:11:00.211 [main] DEBUG - Save part 'docProps/app.xml'
+23:11:00.211 [main] DEBUG - Save part 'docProps/core.xml'
+23:11:00.214 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:11:00.215 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:11:00.215 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:11:00.215 [main] DEBUG - Save part 'xl/styles.xml'
+23:11:00.215 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:11:00.216 [main] DEBUG - Save part 'xl/workbook.xml'
+23:11:00.217 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:11:00.218 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:11:00.219 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:11:00.219 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:11:00.219 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:11:00.220 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:11:00.220 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:11:00.220 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:11:00.220 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:11:00.391 [main] DEBUG - Save content types part
+23:11:00.393 [main] DEBUG - Save package relationships
+23:11:00.394 [main] DEBUG - Save part 'docProps/app.xml'
+23:11:00.394 [main] DEBUG - Save part 'docProps/core.xml'
+23:11:00.396 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:11:00.396 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:11:00.397 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:11:00.397 [main] DEBUG - Save part 'xl/styles.xml'
+23:11:00.397 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:11:00.397 [main] DEBUG - Save part 'xl/workbook.xml'
+23:11:00.399 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:11:00.400 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:11:00.401 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:11:00.402 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:11:00.402 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:11:00.402 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:11:00.402 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:11:00.406 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:11:00.407 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:11:00.419 [main] DEBUG - Save content types part
+23:11:00.421 [main] DEBUG - Save package relationships
+23:11:00.421 [main] DEBUG - Save part 'docProps/app.xml'
+23:11:00.422 [main] DEBUG - Save part 'docProps/core.xml'
+23:11:00.424 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:11:00.424 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:11:00.424 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:11:00.425 [main] DEBUG - Save part 'xl/styles.xml'
+23:11:00.425 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:11:00.425 [main] DEBUG - Save part 'xl/workbook.xml'
+23:11:00.427 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:11:00.428 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:11:00.430 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:11:00.431 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+23:11:00.431 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+23:11:00.431 [main] DEBUG - Save part 'xl/worksheets/sheet6.xml'
+23:11:00.431 [main] DEBUG - Save part 'xl/worksheets/sheet7.xml'
+23:11:00.431 [main] DEBUG - Save part 'xl/worksheets/sheet8.xml'
+23:11:00.432 [main] DEBUG - Save part 'xl/worksheets/sheet9.xml'
+23:11:00.440 [main] DEBUG - Save content types part
+23:11:00.441 [main] DEBUG - Save package relationships
+23:11:00.442 [main] DEBUG - Save part 'docProps/app.xml'
+23:11:00.442 [main] DEBUG - Save part 'docProps/core.xml'

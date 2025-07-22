@@ -1,0 +1,628 @@
+23:15:05.075 [main] DEBUG - Save content types part
+23:15:05.079 [main] DEBUG - Save package relationships
+23:15:05.080 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.080 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.080 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.080 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.080 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.080 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.081 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.081 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.082 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.082 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.082 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.098 [main] DEBUG - Save content types part
+23:15:05.099 [main] DEBUG - Save package relationships
+23:15:05.099 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.099 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.099 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.099 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.099 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.099 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.100 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.100 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.100 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.101 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.101 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.124 [main] DEBUG - Save content types part
+23:15:05.125 [main] DEBUG - Save package relationships
+23:15:05.125 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.126 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.126 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.126 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.126 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.127 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.127 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.127 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.128 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.129 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.129 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.158 [main] DEBUG - Save content types part
+23:15:05.158 [main] DEBUG - Save package relationships
+23:15:05.159 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.159 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.159 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.159 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.159 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.160 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.160 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.160 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.160 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.161 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.161 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.186 [main] DEBUG - Save content types part
+23:15:05.186 [main] DEBUG - Save package relationships
+23:15:05.187 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.187 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.187 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.187 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.187 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.187 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.188 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.188 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.188 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.189 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.189 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.211 [main] DEBUG - Save content types part
+23:15:05.212 [main] DEBUG - Save package relationships
+23:15:05.212 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.212 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.213 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.213 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.213 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.213 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.213 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.214 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.214 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.214 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.215 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.242 [main] DEBUG - Save content types part
+23:15:05.242 [main] DEBUG - Save package relationships
+23:15:05.243 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.243 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.243 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.243 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.243 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.243 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.244 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.244 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.244 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.245 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.245 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.274 [main] DEBUG - Save content types part
+23:15:05.274 [main] DEBUG - Save package relationships
+23:15:05.275 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.275 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.275 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.275 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.275 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.275 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.276 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.276 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.276 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.277 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.277 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.303 [main] DEBUG - Save content types part
+23:15:05.304 [main] DEBUG - Save package relationships
+23:15:05.304 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.304 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.305 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.305 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.305 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.305 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.305 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.305 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.306 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.306 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.306 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.332 [main] DEBUG - Save content types part
+23:15:05.332 [main] DEBUG - Save package relationships
+23:15:05.333 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.333 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.333 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.333 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.333 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.333 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.334 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.334 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.334 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.335 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.336 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.366 [main] DEBUG - Save content types part
+23:15:05.366 [main] DEBUG - Save package relationships
+23:15:05.367 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.367 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.367 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.367 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.367 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.368 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.368 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.368 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.368 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.369 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.369 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.400 [main] DEBUG - Save content types part
+23:15:05.400 [main] DEBUG - Save package relationships
+23:15:05.400 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.400 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.401 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.401 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.401 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.401 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.401 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.401 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.402 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.402 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.403 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.430 [main] DEBUG - Save content types part
+23:15:05.431 [main] DEBUG - Save package relationships
+23:15:05.431 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.431 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.432 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.432 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.432 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.432 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.432 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.432 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.433 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.433 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.433 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.460 [main] DEBUG - Save content types part
+23:15:05.461 [main] DEBUG - Save package relationships
+23:15:05.461 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.461 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.462 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.462 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.462 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.462 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.462 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.462 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.463 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.463 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.464 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.490 [main] DEBUG - Save content types part
+23:15:05.490 [main] DEBUG - Save package relationships
+23:15:05.491 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.491 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.491 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.491 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.491 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.492 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.492 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.492 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.492 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.493 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.493 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.520 [main] DEBUG - Save content types part
+23:15:05.520 [main] DEBUG - Save package relationships
+23:15:05.521 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.521 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.521 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.521 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.521 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.522 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.522 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.522 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.522 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.523 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.523 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.550 [main] DEBUG - Save content types part
+23:15:05.551 [main] DEBUG - Save package relationships
+23:15:05.552 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.552 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.553 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.553 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.553 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.553 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.553 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.554 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.554 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.555 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.556 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.583 [main] DEBUG - Save content types part
+23:15:05.584 [main] DEBUG - Save package relationships
+23:15:05.584 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.584 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.584 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.584 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.584 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.586 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.586 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.586 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.586 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.587 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.587 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.613 [main] DEBUG - Save content types part
+23:15:05.614 [main] DEBUG - Save package relationships
+23:15:05.614 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.614 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.615 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.615 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.615 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.615 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.615 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.615 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.616 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.616 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.616 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.643 [main] DEBUG - Save content types part
+23:15:05.643 [main] DEBUG - Save package relationships
+23:15:05.644 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.644 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.644 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.644 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.644 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.644 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.644 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.645 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.645 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.645 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.646 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.684 [main] DEBUG - Save content types part
+23:15:05.684 [main] DEBUG - Save package relationships
+23:15:05.684 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.685 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.685 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.685 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.685 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.685 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.685 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.686 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.686 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.686 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.687 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.691 [main] DEBUG - Save content types part
+23:15:05.692 [main] DEBUG - Save package relationships
+23:15:05.693 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.693 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.693 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.693 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.694 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.694 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.694 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.694 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.695 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.696 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.697 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.705 [main] DEBUG - Save content types part
+23:15:05.706 [main] DEBUG - Save package relationships
+23:15:05.706 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.706 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.707 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.707 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.707 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.707 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.708 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.708 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.709 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.710 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.710 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:05.715 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+23:15:05.717 [main] TRACE - Resolving type for handle stfontid9d63type
+23:15:05.719 [main] TRACE - Resolving type for handle stfillida097type
+23:15:05.720 [main] TRACE - Resolving type for handle stborderid1a80type
+23:15:05.721 [main] TRACE - Resolving type for handle ctcolord2c2type
+23:15:05.727 [main] TRACE - Resolving type for handle ctpatternfill7452type
+23:15:05.732 [main] TRACE - Resolving type for handle stpatterntype7939type
+23:15:05.741 [main] DEBUG - Save content types part
+23:15:05.741 [main] DEBUG - Save package relationships
+23:15:05.742 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:05.742 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:05.743 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:05.743 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:05.743 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:05.744 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:05.744 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:05.744 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:05.745 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:05.746 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:05.747 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:15.815 [main] INFO  - The user will be in ZigWheels Home Page
+23:15:15.878 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:15:15.878 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:15:15.879 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:15:15.880 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:15:15.888 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:15.888 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:16.583 [main] DEBUG - Save content types part
+23:15:16.584 [main] DEBUG - Save package relationships
+23:15:16.584 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:16.585 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:16.585 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:16.585 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:16.585 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:16.585 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:16.586 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:16.586 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:16.586 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:16.587 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:16.587 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:16.650 [main] INFO  - DisplayNo results found for keyword 'UpcomingHondaBikes'. Please enter a relevant search item.
+23:15:19.027 [main] DEBUG - Save content types part
+23:15:19.028 [main] DEBUG - Save package relationships
+23:15:19.028 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.028 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.028 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.029 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.029 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.029 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.029 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.029 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.030 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.031 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.031 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.035 [main] DEBUG - Save content types part
+23:15:19.035 [main] DEBUG - Save package relationships
+23:15:19.036 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.036 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.036 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.036 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.037 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.037 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.037 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.037 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.038 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.038 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.039 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.043 [main] DEBUG - Save content types part
+23:15:19.045 [main] DEBUG - Save package relationships
+23:15:19.046 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.046 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.047 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.047 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.047 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.047 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.048 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.048 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.048 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.049 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.050 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.054 [main] DEBUG - Save content types part
+23:15:19.055 [main] DEBUG - Save package relationships
+23:15:19.056 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.056 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.056 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.056 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.056 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.057 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.057 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.057 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.058 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.058 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.059 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.064 [main] DEBUG - Save content types part
+23:15:19.065 [main] DEBUG - Save package relationships
+23:15:19.065 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.065 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.066 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.066 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.066 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.066 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.066 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.066 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.067 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.067 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.068 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.201 [main] DEBUG - Save content types part
+23:15:19.202 [main] DEBUG - Save package relationships
+23:15:19.202 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.202 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.203 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.203 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.203 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.203 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.203 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.203 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.204 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.204 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.205 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.209 [main] DEBUG - Save content types part
+23:15:19.209 [main] DEBUG - Save package relationships
+23:15:19.210 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.210 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.210 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.210 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.210 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.210 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.211 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.211 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.211 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.212 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.212 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.319 [main] DEBUG - Save content types part
+23:15:19.320 [main] DEBUG - Save package relationships
+23:15:19.320 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.320 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.321 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.321 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.321 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.321 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.321 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.322 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.322 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.323 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.323 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.328 [main] DEBUG - Save content types part
+23:15:19.329 [main] DEBUG - Save package relationships
+23:15:19.329 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.329 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.330 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.330 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.330 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.330 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.331 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.331 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.332 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.333 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.333 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.338 [main] DEBUG - Save content types part
+23:15:19.339 [main] DEBUG - Save package relationships
+23:15:19.339 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.339 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.340 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.340 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.340 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.340 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.341 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.341 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.341 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.342 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.342 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.348 [main] DEBUG - Save content types part
+23:15:19.349 [main] DEBUG - Save package relationships
+23:15:19.350 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.350 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.350 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.351 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.351 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.351 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.351 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.351 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.352 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.352 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.353 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.358 [main] DEBUG - Save content types part
+23:15:19.359 [main] DEBUG - Save package relationships
+23:15:19.359 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.360 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.360 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.360 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.360 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.360 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.361 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.361 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.361 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.362 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.362 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.368 [main] DEBUG - Save content types part
+23:15:19.369 [main] DEBUG - Save package relationships
+23:15:19.369 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.369 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.370 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.370 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.370 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.370 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.371 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.371 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.371 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.372 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.372 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.423 [main] DEBUG - Save content types part
+23:15:19.424 [main] DEBUG - Save package relationships
+23:15:19.424 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.424 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.425 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.425 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.425 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.425 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.426 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.426 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.426 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.427 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.429 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:19.435 [main] DEBUG - Save content types part
+23:15:19.436 [main] DEBUG - Save package relationships
+23:15:19.436 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:19.436 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:19.437 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:19.437 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:19.437 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:19.437 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:19.437 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:19.438 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:19.438 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:19.439 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:19.439 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:29.276 [main] INFO  - The user will be in ZigWheels Home Page
+23:15:29.326 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:15:29.327 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:15:29.327 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:15:29.327 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:15:29.333 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:29.333 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:31.310 [main] DEBUG - Save content types part
+23:15:31.311 [main] DEBUG - Save package relationships
+23:15:31.311 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:31.311 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:31.312 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:31.313 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:31.313 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:31.313 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:31.313 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:31.313 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:31.314 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:31.315 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:31.316 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:31.321 [main] DEBUG - Save content types part
+23:15:31.322 [main] DEBUG - Save package relationships
+23:15:31.323 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:31.323 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:31.324 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:31.324 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:31.324 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:31.324 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:31.324 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:31.325 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:31.325 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:31.326 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:31.327 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:31.333 [main] DEBUG - Save content types part
+23:15:31.333 [main] DEBUG - Save package relationships
+23:15:31.334 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:31.334 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:31.335 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:31.335 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:31.335 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:31.335 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:31.335 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:31.335 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:31.336 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:31.337 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:31.337 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:31.342 [main] DEBUG - Save content types part
+23:15:31.343 [main] DEBUG - Save package relationships
+23:15:31.344 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:31.344 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:31.345 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:31.345 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:31.345 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:31.345 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:31.345 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:31.346 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:31.346 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:31.347 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:31.347 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:31.352 [main] DEBUG - Save content types part
+23:15:31.353 [main] DEBUG - Save package relationships
+23:15:31.353 [main] DEBUG - Save part 'docProps/app.xml'
+23:15:31.353 [main] DEBUG - Save part 'docProps/core.xml'
+23:15:31.354 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+23:15:31.354 [main] DEBUG - Save part 'xl/printerSettings/printerSettings2.bin'
+23:15:31.354 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:15:31.354 [main] DEBUG - Save part 'xl/styles.xml'
+23:15:31.354 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:15:31.354 [main] DEBUG - Save part 'xl/workbook.xml'
+23:15:31.355 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:15:31.355 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:15:31.356 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:15:31.356 [main] INFO  - New TVS Scooters are displayed in Excel Sheet
+23:15:37.285 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:15:37.286 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:15:37.286 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:15:37.286 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:15:37.292 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:37.293 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:41.522 [main] INFO  - The expectedFilters and actual filter are validated
+23:15:47.073 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:15:47.073 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:15:47.074 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+23:15:47.074 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:15:47.084 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:47.084 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:15:51.058 [main] INFO  - The user is navigated to the Froum Community page
+23:15:55.082 [main] INFO  - The user is navigated to the Forum Community page
+23:16:09.511 [main] INFO  - The error message is displayed: Incorrect email address
+23:16:25.651 [main] INFO  - The Map URL is captured Successfully
+23:16:35.532 [main] INFO  - The user will be in ZigWheels Home Page
+23:17:00.662 [main] INFO  - The user will be in ZigWheels Home Page
+23:17:11.051 [main] INFO  - The user will be in ZigWheels Home Page
